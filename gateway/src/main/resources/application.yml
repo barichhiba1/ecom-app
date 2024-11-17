@@ -1,5 +1,5 @@
 server:
-  port: 8888
+  port: 9999
 spring:
   application:
     name: gateway-service
@@ -16,4 +16,4 @@ spring:
 #          uri: http://localhost:8082
 #          predicates:
 #            - Path= /products/**
-
+#
