@@ -21,6 +21,15 @@
 <img src="captures/img_9.png">
 <img src="captures/img_10.png">
 
+<h1>config service  </h1>
+<img src="captures/img_12.png">
+<img src="captures/img_13.png">
+<img src="captures/img_14.png">
+<img src="captures/img_15.png">
+<img src="captures/img_16.png">
+<img src="captures/img_17.png">
+
+
 
 
 
